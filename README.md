@@ -7,5 +7,5 @@
    - ### **Challenges** - *two major challenges*
       --The primary challenge was due to excel itself. While the excel suite has many powerful operations, formulas can be long and cumbersome, leading to fatigue and mistakes. For instance, Deleverable 2, "Outcomes Based on Goals" required the use of **countifs()** function, while simple to use, to find the correct information it required four unique commands (the correct subcategory, outcome, lower funding, upper funding). Off the top of my head, it seems as though a "between" function could remove one of the commands. 
       - I.E. (successful, play, betweeen 100 and 200), instead of (successful, play, above 100, AND below 200)
-      -- The second challenge 
+     -- The second challenge 
  # 3: Results
