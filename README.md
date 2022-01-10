@@ -17,12 +17,13 @@
 
  ## 3: Results
   ### Results from the Theater Outcomes by Launch Date
-  When looking at the data, there are clearly two conclusions we can discover from the Theater Outcomes by Launch Date. 
+  When looking at the data, there are clearly two conclusions we can discover from the Theater Outcomes by Launch Date.
+  ####
   -- First, as stated earlier, May and June are by far the best times to start a kickstarter campaign if one is attempting to kickstart a theater goal. 
   -- Secondly, Oct thru Dec are the worst times of the year to start a campaign. This is not only because of low success rate, but also the higher instances of failure. When looking at the graph, the further the blue line is above the red line, the higher chances of success are, conversly the closer or if the red line is higher than the blue line the more likely the campaign will fail.
-  ###Results from the Outcomes based on Goals
+  ### Results from the Outcomes based on Goals
   -- The main conclusion from the Outcomes data is that one ought to create the lowest financial kickstarter goal possible.
-  ###Final Thoughts
+  ### Final Thoughts
   --- As stated above, there are signifigant limits to the dataset. The largest is the lack of information, this dataset only has around 1400 theater samples. While that may seem like a lot, it doesn't provide the depth of information necessary to have a trustworthy analysis.
   --- I think it would be interesting to see whether being a "staff-pick" would assist or hinder the success rate of a play. It seems as though staff-picks would provide higher visibility, which is likely a contributing factor for the success/failure of a kistarter campaign.
   
