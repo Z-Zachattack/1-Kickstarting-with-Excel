@@ -16,7 +16,7 @@
 
 
  ## 3: Results
-  ###Results from the Theater Outcomes by Launch Date
+  ### Results from the Theater Outcomes by Launch Date
   When looking at the data, there are clearly two conclusions we can discover from the Theater Outcomes by Launch Date. 
   -- First, as stated earlier, May and June are by far the best times to start a kickstarter campaign if one is attempting to kickstart a theater goal. 
   -- Secondly, Oct thru Dec are the worst times of the year to start a campaign. This is not only because of low success rate, but also the higher instances of failure. When looking at the graph, the further the blue line is above the red line, the higher chances of success are, conversly the closer or if the red line is higher than the blue line the more likely the campaign will fail.
