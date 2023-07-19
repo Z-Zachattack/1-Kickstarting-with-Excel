@@ -24,7 +24,7 @@
   ### Results from the Outcomes based on Goals
   -- The main conclusion from the Outcomes data is that one ought to create the lowest financial kickstarter goal possible.
   ### Final Thoughts
-  --- As stated above, there are signifigant limits to the dataset. The largest is the lack of information, this dataset only has around 1400 theater samples. While that may seem like a lot, it doesn't provide the depth of information necessary to have a trustworthy analysis.
-  --- I think it would be interesting to see whether being a "staff-pick" would assist or hinder the success rate of a play. It seems as though staff-picks would provide higher visibility, which is likely a contributing factor for the success/failure of a kistarter campaign.
+  -- As stated above, there are signifigant limits to the dataset. The largest is the lack of information, this dataset only has around 1400 theater samples. While that may seem like a lot, it doesn't provide the depth of information necessary to have a trustworthy analysis.
+  -- I think it would be interesting to see whether being a "staff-pick" would assist or hinder the success rate of a play. It seems as though staff-picks would provide higher visibility, which is likely a contributing factor for the success/failure of a kistarter campaign.
   
   
